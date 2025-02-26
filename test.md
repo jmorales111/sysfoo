@@ -1,3 +1,3 @@
-Example App
+Example App 2
 ===========
-This is a sample app
+This is a sample app 2
